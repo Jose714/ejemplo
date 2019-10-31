@@ -1,12 +1,13 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h1>{{}}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio at dicta consequatur dignissimos eaque rem architecto velit, perferendis eveniet. Debitis officia reiciendis, ea amet optio tenetur in? Ad, aperiam rem.
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde tenetur qui, voluptates temporibus cum necessitatibus error expedita asperiores corporis praesentium, culpa accusamus earum sit iste rem nihil magnam, cumque voluptatem?
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>Instalar Plugin</h3>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript" target="_blank" rel="noopener">typescript</a></li>
@@ -14,7 +15,7 @@
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-unit-mocha" target="_blank" rel="noopener">unit-mocha</a></li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Documentacion</h3>
     <ul>
       <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
       <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
@@ -22,7 +23,7 @@
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>Ecosistema</h3>
     <ul>
       <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
       <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
